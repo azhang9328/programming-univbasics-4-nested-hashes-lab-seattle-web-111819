@@ -84,7 +84,7 @@ def adding_matz
         :languages => ["LISP", "C"]
         } 
      }
-    
+    programmer_hash[:alan_kay][:known_for] = "GUI"
 end
 
 def changing_alan
